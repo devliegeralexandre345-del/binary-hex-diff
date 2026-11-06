@@ -1,0 +1,7 @@
+# ninja log v5
+1	297	1793983688190817073	CMakeFiles/binary_hex_diff.dir/src/main.cpp.o	35298a9be715c66f
+1	310	1793983688204817579	CMakeFiles/unit_tests.dir/tests/test.cpp.o	af90b5ae66bbef47
+1	349	1793983688242818951	CMakeFiles/unit_tests.dir/src/binary_hex_diff.cpp.o	7be401dfcdbe9747
+1	352	1793983688245819059	CMakeFiles/binary_hex_diff.dir/src/binary_hex_diff.cpp.o	3e55981ac57e3e8
+349	393	1793983688286430862	unit_tests	237342f1a2b74de0
+352	396	1793983688289673075	binary_hex_diff	3abf8916bde464b3

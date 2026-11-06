@@ -1,0 +1,5 @@
+/home/ubuntu/cpp-generator/workspace/binary-hex-diff/build/CMakeFiles/binary_hex_diff.dir
+/home/ubuntu/cpp-generator/workspace/binary-hex-diff/build/CMakeFiles/unit_tests.dir
+/home/ubuntu/cpp-generator/workspace/binary-hex-diff/build/CMakeFiles/test.dir
+/home/ubuntu/cpp-generator/workspace/binary-hex-diff/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/cpp-generator/workspace/binary-hex-diff/build/CMakeFiles/rebuild_cache.dir

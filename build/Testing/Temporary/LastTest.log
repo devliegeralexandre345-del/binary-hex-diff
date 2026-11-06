@@ -1,0 +1,19 @@
+Start testing: Nov 06 16:48 UTC
+----------------------------------------------------------
+1/1 Testing: AllTests
+1/1 Test: AllTests
+Command: "/home/ubuntu/cpp-generator/workspace/binary-hex-diff/build/unit_tests"
+Directory: /home/ubuntu/cpp-generator/workspace/binary-hex-diff/build
+"AllTests" start time: Nov 06 16:48 UTC
+Output:
+----------------------------------------------------------
+Test passed!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AllTests" end time: Nov 06 16:48 UTC
+"AllTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 06 16:48 UTC
